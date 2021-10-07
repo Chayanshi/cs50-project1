@@ -2,7 +2,7 @@
 
 his is a Wikipedia like website that consists of a number of entries on various topics. Each entry can be viewed by visiting that entry’s page.
 
-Specification
+Specification: 
 These are the specifications given to me in the course CS50’s Web Programming with Python and JavaScript:
 
 Entry Page: Visiting /wiki/TITLE, where TITLE is the title of an encyclopedia entry, should render a page that displays the contents of that encyclopedia entry. The view should get the content of the encyclopedia entry by calling the appropriate util function.
